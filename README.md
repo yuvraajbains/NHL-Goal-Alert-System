@@ -14,3 +14,13 @@ A Python app that checks live NHL goal data using the NHL API and sends real-tim
 3. Run: `python main.py`
 
 ## Project Structure
+📦 oilers_goal_alert
+├── main.py
+├── sms.py
+├── goal_checker.py
+├── config.py
+├── utils.py
+├── requirements.txt
+├── .gitignore
+└── .env (excluded)
+
